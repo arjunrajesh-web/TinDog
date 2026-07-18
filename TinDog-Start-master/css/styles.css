@@ -1,56 +1,51 @@
-<<<<<<< HEAD
-body{
+body {
     font-family: "Montserrat";
 }
-#title{
-    background-color:rgb(200, 31, 27);;
-    color: #fff;
-=======
-#title{
+
+#title {
     background-color: #ff4c68;
->>>>>>> d9e5162af4ba7fec646dfbbd8e106e80a0e37b9a
+    color: #fff;
 }
 
-h1{
-     font-family: "Montserrat", sans-serif;;
-<<<<<<< HEAD
-     font-size: 63px !important ;
-     line-height: 70.5px !important;
-     font-weight: bold !important;
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 63px;
+    line-height: 70.5px;
+    font-weight: bold;
 }
-.cotainer-fluid{
+
+.container-fluid {
     padding: 3% 15%;
 }
 
-.navbar{
-    padding-bottom: 4.5rem !important;
+.navbar {
+    padding-bottom: 4.5rem;
 }
 
-.items{
-    padding: 0px 18px !important;
-  
+.items {
+    padding: 0 18px;
 }
 
-.navbar-brand{
-    font-family: "ubuntu";
+.navbar-brand {
+    font-family: "Ubuntu", sans-serif;
     font-size: 2.5rem;
     font-weight: bold;
 }
-.dog-img{
+
+.dog-img {
     width: 60%;
-    rotate: 45deg;
+    transform: rotate(45deg);
 }
-h3{
-    font-weight: "bold" !important;
+
+h3 {
+    font-weight: bold;
 }
-#features{
+
+#features {
     padding: 7% 15%;
 }
-.features-box{
+
+.features-box {
     text-align: center;
-    padding: 5px;;
-=======
-     size: 3rem;
-     line-height: 1.5px;
->>>>>>> d9e5162af4ba7fec646dfbbd8e106e80a0e37b9a
+    padding: 5px;
 }
