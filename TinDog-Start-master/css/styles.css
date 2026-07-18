@@ -1,13 +1,19 @@
+<<<<<<< HEAD
 body{
     font-family: "Montserrat";
 }
 #title{
     background-color:rgb(200, 31, 27);;
     color: #fff;
+=======
+#title{
+    background-color: #ff4c68;
+>>>>>>> d9e5162af4ba7fec646dfbbd8e106e80a0e37b9a
 }
 
 h1{
      font-family: "Montserrat", sans-serif;;
+<<<<<<< HEAD
      font-size: 63px !important ;
      line-height: 70.5px !important;
      font-weight: bold !important;
@@ -43,4 +49,8 @@ h3{
 .features-box{
     text-align: center;
     padding: 5px;;
+=======
+     size: 3rem;
+     line-height: 1.5px;
+>>>>>>> d9e5162af4ba7fec646dfbbd8e106e80a0e37b9a
 }
