@@ -1,0 +1,46 @@
+body{
+    font-family: "Montserrat";
+}
+#title{
+    background-color:rgb(200, 31, 27);;
+    color: #fff;
+}
+
+h1{
+     font-family: "Montserrat", sans-serif;;
+     font-size: 63px !important ;
+     line-height: 70.5px !important;
+     font-weight: bold !important;
+}
+.cotainer-fluid{
+    padding: 3% 15%;
+}
+
+.navbar{
+    padding-bottom: 4.5rem !important;
+}
+
+.items{
+    padding: 0px 18px !important;
+  
+}
+
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.dog-img{
+    width: 60%;
+    rotate: 45deg;
+}
+h3{
+    font-weight: "bold" !important;
+}
+#features{
+    padding: 7% 15%;
+}
+.features-box{
+    text-align: center;
+    padding: 5px;;
+}
